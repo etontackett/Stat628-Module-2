@@ -1,0 +1,412 @@
+stress_type,sensor,overview_file_ref,resolution_status,resolved_file_stem
+Acute,4 channel,Set1_Acute2024071112,exact,Set1_Acute2024071112
+Acute,4 channel,Set1_Acute20240722,exact,Set1_Acute20240722
+Acute,4 channel,Set1_Acute20240725,exact,Set1_Acute20240725
+Acute,4 channel,Set1_Acute20240731,exact,Set1_Acute20240731
+Acute,4 channel,Set1_Acute20240807,exact,Set1_Acute20240807
+Acute,4 channel,Set1_Acute20240814,exact,Set1_Acute20240814
+Acute,4 channel,Set1_Acute20240821,exact,Set1_Acute20240821
+Acute,4 channel,Set1_Acute20240828,exact,Set1_Acute20240828
+Acute,4 channel,Set1_Acute20240904,exact,Set1_Acute20240904
+Acute,4 channel,Set1_Acute20240912,exact,Set1_Acute20240912
+Acute,4 channel,Set1_Acute20240918,unresolved,
+Acute,4 channel,Set1_Acute20240924,exact,Set1_Acute20240924
+Acute,4 channel,Set2_Acute2024071112,exact,Set2_Acute2024071112
+Acute,4 channel,Set2_Acute20240722,exact,Set2_Acute20240722
+Acute,4 channel,Set2_Acute20240725,exact,Set2_Acute20240725
+Acute,4 channel,Set2_Acute20240731,exact,Set2_Acute20240731
+Acute,4 channel,Set2_Acute20240807,alias,Set2_Acute20240807a
+Acute,4 channel,Set2_Acute20240814,exact,Set2_Acute20240814
+Acute,4 channel,Set2_Acute20240821,exact,Set2_Acute20240821
+Acute,4 channel,Set2_Acute20240828,exact,Set2_Acute20240828
+Acute,4 channel,Set2_Acute20240904,exact,Set2_Acute20240904
+Acute,4 channel,Set2_Acute20240912,exact,Set2_Acute20240912
+Acute,4 channel,Set2_Acute20240918,exact,Set2_Acute20240918
+Acute,4 channel,Set2_Acute20240924,exact,Set2_Acute20240924
+Acute,4 channel,Set3_Acute2024071112,exact,Set3_Acute2024071112
+Acute,4 channel,Set3_Acute20240722,exact,Set3_Acute20240722
+Acute,4 channel,Set3_Acute20240725,exact,Set3_Acute20240725
+Acute,4 channel,Set3_Acute20240731,exact,Set3_Acute20240731
+Acute,4 channel,Set3_Acute20240807,exact,Set3_Acute20240807
+Acute,4 channel,Set3_Acute20240814,exact,Set3_Acute20240814
+Acute,4 channel,Set3_Acute20240821,exact,Set3_Acute20240821
+Acute,4 channel,Set3_Acute20240828,exact,Set3_Acute20240828
+Acute,4 channel,Set3_Acute20240904,exact,Set3_Acute20240904
+Acute,4 channel,Set3_Acute20240912,exact,Set3_Acute20240912
+Acute,4 channel,Set3_Acute20240918,exact,Set3_Acute20240918
+Acute,4 channel,Set3_Acute20240924,exact,Set3_Acute20240924
+Acute,4 channel,Set4_Acute2024071112,exact,Set4_Acute2024071112
+Acute,4 channel,Set4_Acute20240722,exact,Set4_Acute20240722
+Acute,4 channel,Set4_Acute20240725,exact,Set4_Acute20240725
+Acute,4 channel,Set4_Acute20240731,exact,Set4_Acute20240731
+Acute,4 channel,Set4_Acute20240807,exact,Set4_Acute20240807
+Acute,4 channel,Set4_Acute20240814,exact,Set4_Acute20240814
+Acute,4 channel,Set4_Acute20240821,exact,Set4_Acute20240821
+Acute,4 channel,Set4_Acute20240828,exact,Set4_Acute20240828
+Acute,4 channel,Set4_Acute20240904,exact,Set4_Acute20240904
+Acute,4 channel,Set4_Acute20240912,exact,Set4_Acute20240912
+Acute,4 channel,Set4_Acute20240918,exact,Set4_Acute20240918
+Acute,4 channel,Set4_Acute20240924,exact,set4_Acute20240924
+Acute,4 channel,Set5_Acute2024071112,exact,Set5_Acute2024071112
+Acute,4 channel,Set5_Acute20240722,exact,Set5_Acute20240722
+Acute,4 channel,Set5_Acute20240725,exact,Set5_Acute20240725
+Acute,4 channel,Set5_Acute20240731,exact,Set5_Acute20240731
+Acute,4 channel,Set5_Acute20240807,unresolved,
+Acute,4 channel,Set5_Acute20240814,exact,Set5_Acute20240814
+Acute,4 channel,Set5_Acute20240821,exact,Set5_Acute20240821
+Acute,4 channel,Set5_Acute20240828,exact,Set5_Acute20240828
+Acute,4 channel,Set5_Acute20240904,exact,Set5_Acute20240904
+Acute,4 channel,Set5_Acute20240912,exact,Set5_Acute20240912
+Acute,4 channel,Set5_Acute20240918,exact,Set5_Acute20240918
+Acute,4 channel,Set5_Acute20240924,exact,Set5_Acute20240924
+Acute,4 channel,Set6_Acute2024071112,exact,Set6_Acute2024071112
+Acute,4 channel,Set6_Acute20240722,exact,Set6_Acute20240722
+Acute,4 channel,Set6_Acute20240725,exact,Set6_Acute20240725
+Acute,4 channel,Set6_Acute20240731,exact,Set6_Acute20240731
+Acute,4 channel,Set6_Acute20240807,alias,Set6_Acute20240807a
+Acute,4 channel,Set6_Acute20240814,exact,Set6_Acute20240814
+Acute,4 channel,Set6_Acute20240821,exact,Set6_Acute20240821
+Acute,4 channel,Set6_Acute20240828,exact,Set6_Acute20240828
+Acute,4 channel,Set6_Acute20240904,exact,Set6_Acute20240904
+Acute,4 channel,Set6_Acute20240912,exact,Set6_Acute20240912
+Acute,4 channel,Set6_Acute20240918,exact,Set6_Acute20240918
+Acute,4 channel,Set6_Acute20240924,exact,Set6_Acute20240924
+Acute,HOBO sensor,A 20240712,exact,A_20240712
+Acute,HOBO sensor,A 20240722,exact,A_20240722
+Acute,HOBO sensor,A 20240725,exact,A_20240725
+Acute,HOBO sensor,A 20240731,exact,A_20240731
+Acute,HOBO sensor,A 20240807,exact,A_20240807
+Acute,HOBO sensor,A 20240814,exact,A_20240814
+Acute,HOBO sensor,A 20240821,exact,A_20240821
+Acute,HOBO sensor,A 20240828,exact,A_20240828
+Acute,HOBO sensor,A 20240904,exact,A_20240904
+Acute,HOBO sensor,A 20240912,exact,A_20240912
+Acute,HOBO sensor,A 20240918,unresolved,
+Acute,HOBO sensor,A 20240924,unresolved,
+Acute,HOBO sensor,B 20240712,exact,B_20240712
+Acute,HOBO sensor,B 20240722,exact,B_20240722
+Acute,HOBO sensor,B 20240725,exact,B_20240725
+Acute,HOBO sensor,B 20240731,exact,B_20240731
+Acute,HOBO sensor,B 20240807,exact,B_20240807
+Acute,HOBO sensor,B 20240814,exact,B_20240814
+Acute,HOBO sensor,B 20240821,exact,B_20240821
+Acute,HOBO sensor,B 20240828,exact,B_20240828
+Acute,HOBO sensor,C 20240712,exact,C_20240712
+Acute,HOBO sensor,C 20240722,exact,C_20240722
+Acute,HOBO sensor,C 20240725,exact,C_20240725
+Acute,HOBO sensor,C 20240731,exact,C_20240731
+Acute,HOBO sensor,C 20240807,exact,C_20240807
+Acute,HOBO sensor,C 20240814,exact,C_20240814
+Acute,HOBO sensor,C 20240821,exact,C_20240821
+Acute,HOBO sensor,C 20240828,exact,C_20240828
+Acute,HOBO sensor,C 20240904,exact,C_20240904
+Acute,HOBO sensor,C 20240912,exact,C_20240912
+Acute,HOBO sensor,C 20240918,unresolved,
+Acute,HOBO sensor,C 20240924,unresolved,
+Acute,HOBO sensor,D 20240712,exact,D_20240712
+Acute,HOBO sensor,D 20240722,exact,D_20240722
+Acute,HOBO sensor,D 20240725,exact,D_20240725
+Acute,HOBO sensor,D 20240731,exact,D_20240731
+Acute,HOBO sensor,D 20240807,exact,D_20240807
+Acute,HOBO sensor,D 20240814,exact,D_20240814
+Acute,HOBO sensor,D 20240821,exact,D_20240821
+Acute,HOBO sensor,D 20240828,exact,D_20240828
+Acute,HOBO sensor,D 20240904,exact,D_20240904
+Acute,HOBO sensor,D 20240912,exact,D_20240912
+Acute,HOBO sensor,D 20240918,unresolved,
+Acute,HOBO sensor,D 20240924,unresolved,
+Acute,HOBO sensor,E 20240712,exact,E_20240712
+Acute,HOBO sensor,E 20240722,exact,E_20240722
+Acute,HOBO sensor,E 20240725,exact,E_20240725
+Acute,HOBO sensor,E 20240731,exact,E_20240731
+Acute,HOBO sensor,E 20240807,exact,E_20240807
+Acute,HOBO sensor,E 20240814,exact,E_20240814
+Acute,HOBO sensor,E 20240821,exact,E_20240821
+Acute,HOBO sensor,E 20240828,exact,E_20240828
+Acute,HOBO sensor,E 20240904,exact,E_20240904
+Acute,HOBO sensor,E 20240912,exact,E_20240912
+Acute,HOBO sensor,E 20240918,unresolved,
+Acute,HOBO sensor,E 20240924,unresolved,
+Acute,HOBO sensor,F 20240712,exact,F_20240712
+Acute,HOBO sensor,F 20240722,exact,F_20240722
+Acute,HOBO sensor,F 20240725,exact,F_20240725
+Acute,HOBO sensor,F 20240731,exact,F_20240731
+Acute,HOBO sensor,F 20240807,exact,F_20240807
+Acute,HOBO sensor,F 20240814,exact,F_20240814
+Acute,HOBO sensor,F 20240815,unresolved,
+Acute,HOBO sensor,F 20240821,exact,F_20240821
+Acute,HOBO sensor,F 20240822,unresolved,
+Acute,HOBO sensor,F 20240828,exact,F_20240828
+Acute,HOBO sensor,F 20240904,exact,F_20240904
+Acute,HOBO sensor,F 20240905,unresolved,
+Acute,HOBO sensor,F 20240912,exact,F_20240912
+Acute,HOBO sensor,F 20240918,unresolved,
+Acute,HOBO sensor,F 20240924,unresolved,
+Acute,HOBO sensor,F 20240925,unresolved,
+Acute,HOBO sensor,OTCModel1 20240912,exact,OTC-Model1 _20240912
+Acute,HOBO sensor,OTCModel1 20240918,unresolved,
+Acute,HOBO sensor,OTCModel1 20240924,unresolved,
+LongTerm,4 channel,Set10_LT20240618,exact,Set10_LT20240618
+LongTerm,4 channel,Set10_LT20240711,exact,Set10_LT20240711
+LongTerm,4 channel,Set10_LT20240725,exact,Set10_LT20240725
+LongTerm,4 channel,Set10_LT20240807,exact,Set10_LT20240807
+LongTerm,4 channel,Set10_LT20240814,exact,Set10_LT20240814
+LongTerm,4 channel,Set10_LT20240821,exact,Set10_LT20240821
+LongTerm,4 channel,Set10_LT20240828,exact,Set10_LT20240828
+LongTerm,4 channel,Set10_LT20240904,exact,Set10_LT20240904
+LongTerm,4 channel,Set10_LT20240912,exact,Set10_LT20240912
+LongTerm,4 channel,Set10_LT20240918,unresolved,
+LongTerm,4 channel,Set10_LT20240924,exact,Set10_LT20240924
+LongTerm,4 channel,Set11_LT20240618,exact,Set11_LT20240618
+LongTerm,4 channel,Set11_LT20240711,exact,Set11_LT20240711
+LongTerm,4 channel,Set11_LT20240725,exact,Set11_LT20240725
+LongTerm,4 channel,Set11_LT20240807,exact,Set11_LT20240807
+LongTerm,4 channel,Set11_LT20240814,exact,Set11_LT20240814
+LongTerm,4 channel,Set11_LT20240821,exact,Set11_LT20240821
+LongTerm,4 channel,Set11_LT20240828,exact,Set11_LT20240828
+LongTerm,4 channel,Set11_LT20240904,exact,Set11_LT20240904
+LongTerm,4 channel,Set11_LT20240912,exact,Set11_LT20240912
+LongTerm,4 channel,Set11_LT20240918,exact,Set11_LT20240918
+LongTerm,4 channel,Set11_LT20240924,exact,Set11_LT20240924
+LongTerm,4 channel,Set12_LT20240618,exact,Set12_LT20240618
+LongTerm,4 channel,Set12_LT20240711,exact,Set12_LT20240711
+LongTerm,4 channel,Set12_LT20240725,exact,Set12_LT20240725
+LongTerm,4 channel,Set12_LT20240807,exact,Set12_LT20240807
+LongTerm,4 channel,Set12_LT20240814,exact,Set12_LT20240814
+LongTerm,4 channel,Set12_LT20240821,exact,Set12_LT20240821
+LongTerm,4 channel,Set12_LT20240828,exact,Set12_LT20240828
+LongTerm,4 channel,Set12_LT20240904,exact,Set12_LT20240904
+LongTerm,4 channel,Set12_LT20240912,exact,Set12_LT20240912
+LongTerm,4 channel,Set12_LT20240918,exact,Set12_LT20240918
+LongTerm,4 channel,Set12_LT20240924,exact,Set12_LT20240924
+LongTerm,4 channel,Set13_LT20240618,exact,Set13_LT20240618
+LongTerm,4 channel,Set13_LT20240711,exact,Set13_LT20240711
+LongTerm,4 channel,Set13_LT20240725,exact,Set13_LT20240725
+LongTerm,4 channel,Set13_LT20240807,exact,Set13_LT20240807
+LongTerm,4 channel,Set13_LT20240814,exact,Set13_LT20240814
+LongTerm,4 channel,Set13_LT20240821,exact,Set13_LT20240821
+LongTerm,4 channel,Set13_LT20240828,exact,Set13_LT20240828
+LongTerm,4 channel,Set13_LT20240904,exact,Set13_LT20240904
+LongTerm,4 channel,Set13_LT20240912,exact,Set13_LT20240912
+LongTerm,4 channel,Set13_LT20240918,exact,Set13_LT20240918
+LongTerm,4 channel,Set13_LT20240924,exact,Set13_LT20240924
+LongTerm,4 channel,Set14_LT20240618,exact,Set14_LT20240618
+LongTerm,4 channel,Set14_LT20240711,exact,Set14_LT20240711
+LongTerm,4 channel,Set14_LT20240725,exact,Set14_LT20240725
+LongTerm,4 channel,Set14_LT20240807,exact,Set14_LT20240807
+LongTerm,4 channel,Set14_LT20240814,exact,Set14_LT20240814
+LongTerm,4 channel,Set14_LT20240821,exact,Set14_LT20240821
+LongTerm,4 channel,Set14_LT20240828,exact,Set14_LT20240828
+LongTerm,4 channel,Set14_LT20240904,exact,Set14_LT20240904
+LongTerm,4 channel,Set14_LT20240912,exact,Set14_LT20240912
+LongTerm,4 channel,Set14_LT20240918,exact,Set14_LT20240918
+LongTerm,4 channel,Set14_LT20240924,exact,Set14_LT20240924
+LongTerm,4 channel,Set7_LT20240618,exact,Set7_LT20240618
+LongTerm,4 channel,Set7_LT20240711,exact,Set7_LT20240711
+LongTerm,4 channel,Set7_LT20240725,exact,Set7_LT20240725
+LongTerm,4 channel,Set7_LT20240807,exact,Set7_LT20240807
+LongTerm,4 channel,Set7_LT20240814,exact,Set7_LT20240814
+LongTerm,4 channel,Set7_LT20240821,exact,Set7_LT20240821
+LongTerm,4 channel,Set7_LT20240828,exact,Set7_LT20240828
+LongTerm,4 channel,Set7_LT20240904,exact,Set7_LT20240904
+LongTerm,4 channel,Set7_LT20240912,exact,Set7_LT20240912
+LongTerm,4 channel,Set7_LT20240918,exact,Set7_LT20240918
+LongTerm,4 channel,Set7_LT20240924,exact,Set7_LT20240924
+LongTerm,4 channel,Set8_LT20240618,exact,Set8_LT20240618
+LongTerm,4 channel,Set8_LT20240711,exact,Set8_LT20240711
+LongTerm,4 channel,Set8_LT20240725,exact,Set8_LT20240725
+LongTerm,4 channel,Set8_LT20240807,exact,Set8_LT20240807
+LongTerm,4 channel,Set8_LT20240814,exact,Set8_LT20240814
+LongTerm,4 channel,Set8_LT20240821,exact,Set8_LT20240821
+LongTerm,4 channel,Set8_LT20240828,exact,Set8_LT20240828
+LongTerm,4 channel,Set8_LT20240904,exact,Set8_LT20240904
+LongTerm,4 channel,Set8_LT20240912,exact,Set8_LT20240912
+LongTerm,4 channel,Set8_LT20240918,exact,Set8_LT20240918
+LongTerm,4 channel,Set8_LT20240924,exact,Set8_LT20240924
+LongTerm,4 channel,Set9_LT20240618,exact,Set9_LT20240618
+LongTerm,4 channel,Set9_LT20240711,exact,Set9_LT20240711
+LongTerm,4 channel,Set9_LT20240725,exact,Set9_LT20240725
+LongTerm,4 channel,Set9_LT20240807,exact,Set9_LT20240807
+LongTerm,4 channel,Set9_LT20240814,exact,Set9_LT20240814
+LongTerm,4 channel,Set9_LT20240821,exact,Set9_LT20240821
+LongTerm,4 channel,Set9_LT20240828,unresolved,
+LongTerm,4 channel,Set9_LT20240904,exact,Set9_LT20240904
+LongTerm,4 channel,Set9_LT20240912,exact,Set9_LT20240912
+LongTerm,4 channel,Set9_LT20240918,exact,Set9_LT20240918
+LongTerm,4 channel,Set9_LT20240924,exact,Set9_LT20240924
+LongTerm,HOBO sensor,10_202400618,alias,10_20240618
+LongTerm,HOBO sensor,10_20240711,exact,10_20240711
+LongTerm,HOBO sensor,10_20240725,exact,10_20240725
+LongTerm,HOBO sensor,10_20240807,exact,10_20240807
+LongTerm,HOBO sensor,10_20240814,exact,10_20240814
+LongTerm,HOBO sensor,10_20240821,exact,10_20240821
+LongTerm,HOBO sensor,10_20240828,exact,10_20240828
+LongTerm,HOBO sensor,10_20240904,exact,10_20240904
+LongTerm,HOBO sensor,10_20240912,exact,10_20240912
+LongTerm,HOBO sensor,10_20240918,unresolved,
+LongTerm,HOBO sensor,10_20240924,unresolved,
+LongTerm,HOBO sensor,11_202400618,alias,11_20240618
+LongTerm,HOBO sensor,11_20240711,exact,11_20240711
+LongTerm,HOBO sensor,11_20240725,exact,11_20240725
+LongTerm,HOBO sensor,11_20240807,exact,11_20240807
+LongTerm,HOBO sensor,11_20240814,exact,11_20240814
+LongTerm,HOBO sensor,11_20240821,exact,11_20240821
+LongTerm,HOBO sensor,11_20240828,exact,11_20240828
+LongTerm,HOBO sensor,11_20240904,exact,11_20240904
+LongTerm,HOBO sensor,11_20240912,exact,11_20240912
+LongTerm,HOBO sensor,11_20240918,unresolved,
+LongTerm,HOBO sensor,11_20240924,unresolved,
+LongTerm,HOBO sensor,12_202400618,alias,12_20240618
+LongTerm,HOBO sensor,12_20240711,exact,12_20240711
+LongTerm,HOBO sensor,12_20240725,exact,12_20240725
+LongTerm,HOBO sensor,12_20240807,exact,12_20240807
+LongTerm,HOBO sensor,12_20240814,exact,12_20240814
+LongTerm,HOBO sensor,12_20240821,exact,12_20240821
+LongTerm,HOBO sensor,12_20240828,exact,12_20240828
+LongTerm,HOBO sensor,12_20240904,exact,12_20240904
+LongTerm,HOBO sensor,12_20240912,exact,12_20240912
+LongTerm,HOBO sensor,12_20240918,unresolved,
+LongTerm,HOBO sensor,12_20240924,unresolved,
+LongTerm,HOBO sensor,13_202400618,alias,13_20240618
+LongTerm,HOBO sensor,13_20240711,exact,13_20240711
+LongTerm,HOBO sensor,13_20240725,exact,13_20240725
+LongTerm,HOBO sensor,13_20240807,exact,13_20240807
+LongTerm,HOBO sensor,13_20240814,exact,13_20240814
+LongTerm,HOBO sensor,13_20240821,exact,13_20240821
+LongTerm,HOBO sensor,13_20240828,exact,13_20240828
+LongTerm,HOBO sensor,13_20240904,exact,13_20240904
+LongTerm,HOBO sensor,13_20240912,exact,13_20240912
+LongTerm,HOBO sensor,13_20240918,unresolved,
+LongTerm,HOBO sensor,13_20240924,unresolved,
+LongTerm,HOBO sensor,14_202400618,alias,14_20240618
+LongTerm,HOBO sensor,14_20240711,exact,14_20240711
+LongTerm,HOBO sensor,14_20240725,exact,14_20240725
+LongTerm,HOBO sensor,14_20240807,exact,14_20240807
+LongTerm,HOBO sensor,14_20240814,exact,14_20240814
+LongTerm,HOBO sensor,14_20240821,exact,14_20240821
+LongTerm,HOBO sensor,14_20240828,exact,14_20240828
+LongTerm,HOBO sensor,14_20240904,exact,14_20240904
+LongTerm,HOBO sensor,14_20240912,exact,14_20240912
+LongTerm,HOBO sensor,14_20240918,unresolved,
+LongTerm,HOBO sensor,14_20240924,unresolved,
+LongTerm,HOBO sensor,15_202400618,alias,15_20240618
+LongTerm,HOBO sensor,15_20240711,exact,15_20240711
+LongTerm,HOBO sensor,15_20240725,exact,15_20240725
+LongTerm,HOBO sensor,15_20240807,exact,15_20240807
+LongTerm,HOBO sensor,15_20240814,exact,15_20240814
+LongTerm,HOBO sensor,15_20240821,exact,15_20240821
+LongTerm,HOBO sensor,15_20240828,exact,15_20240828
+LongTerm,HOBO sensor,15_20240904,exact,15_20240904
+LongTerm,HOBO sensor,15_20240912,exact,15_20240912
+LongTerm,HOBO sensor,15_20240918,unresolved,
+LongTerm,HOBO sensor,15_20240924,unresolved,
+LongTerm,HOBO sensor,16_202400618,alias,16_20240618
+LongTerm,HOBO sensor,16_20240711,exact,16_20240711
+LongTerm,HOBO sensor,16_20240725,exact,16_20240725
+LongTerm,HOBO sensor,16_20240807,exact,16_20240807
+LongTerm,HOBO sensor,16_20240814,exact,16_20240814
+LongTerm,HOBO sensor,16_20240821,exact,16_20240821
+LongTerm,HOBO sensor,16_20240828,exact,16_20240828
+LongTerm,HOBO sensor,16_20240904,exact,16_20240904
+LongTerm,HOBO sensor,16_20240912,exact,16_20240912
+LongTerm,HOBO sensor,16_20240918,unresolved,
+LongTerm,HOBO sensor,16_20240924,unresolved,
+LongTerm,HOBO sensor,1_202400618,alias,1_20240618
+LongTerm,HOBO sensor,1_20240711,exact,1_20240711
+LongTerm,HOBO sensor,1_20240725,exact,1_20240725
+LongTerm,HOBO sensor,1_20240807,exact,1_20240807
+LongTerm,HOBO sensor,1_20240814,exact,1_20240814
+LongTerm,HOBO sensor,1_20240821,exact,1_20240821
+LongTerm,HOBO sensor,1_20240828,exact,1_20240828
+LongTerm,HOBO sensor,1_20240904,exact,1_20240904
+LongTerm,HOBO sensor,1_20240912,exact,1_20240912
+LongTerm,HOBO sensor,1_20240918,unresolved,
+LongTerm,HOBO sensor,1_20240924,unresolved,
+LongTerm,HOBO sensor,2_202400618,alias,2_20240618
+LongTerm,HOBO sensor,2_20240711,exact,2_20240711
+LongTerm,HOBO sensor,2_20240725,exact,2_20240725
+LongTerm,HOBO sensor,2_20240807,exact,2_20240807
+LongTerm,HOBO sensor,2_20240814,exact,2_20240814
+LongTerm,HOBO sensor,2_20240821,exact,2_20240821
+LongTerm,HOBO sensor,2_20240828,exact,2_20240828
+LongTerm,HOBO sensor,2_20240904,exact,2_20240904
+LongTerm,HOBO sensor,2_20240912,exact,2_20240912
+LongTerm,HOBO sensor,2_20240918,unresolved,
+LongTerm,HOBO sensor,2_20240924,unresolved,
+LongTerm,HOBO sensor,3_202400618,alias,3_20240618
+LongTerm,HOBO sensor,3_20240711,exact,3_20240711
+LongTerm,HOBO sensor,3_20240725,exact,3_20240725
+LongTerm,HOBO sensor,3_20240807,exact,3_20240807
+LongTerm,HOBO sensor,3_20240814,exact,3_20240814
+LongTerm,HOBO sensor,3_20240821,exact,3_20240821
+LongTerm,HOBO sensor,3_20240828,exact,3_20240828
+LongTerm,HOBO sensor,3_20240904,exact,3_20240904
+LongTerm,HOBO sensor,3_20240912,exact,3_20240912
+LongTerm,HOBO sensor,3_20240918,unresolved,
+LongTerm,HOBO sensor,3_20240924,unresolved,
+LongTerm,HOBO sensor,4_202400618,alias,4_20240618
+LongTerm,HOBO sensor,4_20240711,exact,4_20240711
+LongTerm,HOBO sensor,4_20240725,exact,4_20240725
+LongTerm,HOBO sensor,4_20240807,exact,4_20240807
+LongTerm,HOBO sensor,4_20240814,exact,4_20240814
+LongTerm,HOBO sensor,4_20240821,exact,4_20240821
+LongTerm,HOBO sensor,4_20240828,exact,4_20240828
+LongTerm,HOBO sensor,4_20240904,exact,4_20240904
+LongTerm,HOBO sensor,4_20240912,exact,4_20240912
+LongTerm,HOBO sensor,4_20240918,unresolved,
+LongTerm,HOBO sensor,4_20240924,unresolved,
+LongTerm,HOBO sensor,5_202400618,alias,5_20240618
+LongTerm,HOBO sensor,5_20240711,exact,5_20240711
+LongTerm,HOBO sensor,5_20240725,exact,5_20240725
+LongTerm,HOBO sensor,5_20240807,exact,5_20240807
+LongTerm,HOBO sensor,5_20240814,exact,5_20240814
+LongTerm,HOBO sensor,5_20240821,exact,5_20240821
+LongTerm,HOBO sensor,5_20240828,exact,5_20240828
+LongTerm,HOBO sensor,5_20240904,exact,5_20240904
+LongTerm,HOBO sensor,5_20240912,exact,5_20240912
+LongTerm,HOBO sensor,5_20240918,unresolved,
+LongTerm,HOBO sensor,5_20240924,unresolved,
+LongTerm,HOBO sensor,6_202400618,alias,6_20240618
+LongTerm,HOBO sensor,6_20240711,exact,6_20240711
+LongTerm,HOBO sensor,6_20240725,exact,6_20240725
+LongTerm,HOBO sensor,6_20240807,exact,6_20240807
+LongTerm,HOBO sensor,6_20240814,exact,6_20240814
+LongTerm,HOBO sensor,6_20240821,exact,6_20240821
+LongTerm,HOBO sensor,6_20240828,exact,6_20240828
+LongTerm,HOBO sensor,6_20240904,exact,6_20240904
+LongTerm,HOBO sensor,6_20240912,exact,6_20240912
+LongTerm,HOBO sensor,6_20240918,unresolved,
+LongTerm,HOBO sensor,6_20240924,unresolved,
+LongTerm,HOBO sensor,7_202400618,alias,7_20240618
+LongTerm,HOBO sensor,7_20240711,exact,7_20240711
+LongTerm,HOBO sensor,7_20240725,exact,7_20240725
+LongTerm,HOBO sensor,7_20240807,exact,7_20240807
+LongTerm,HOBO sensor,7_20240814,exact,7_20240814
+LongTerm,HOBO sensor,7_20240821,exact,7_20240821
+LongTerm,HOBO sensor,7_20240828,exact,7_20240828
+LongTerm,HOBO sensor,7_20240904,exact,7_20240904
+LongTerm,HOBO sensor,7_20240912,exact,7_20240912
+LongTerm,HOBO sensor,7_20240918,unresolved,
+LongTerm,HOBO sensor,7_20240924,unresolved,
+LongTerm,HOBO sensor,8_202400618,alias,8_20240618
+LongTerm,HOBO sensor,8_20240711,exact,8_20240711
+LongTerm,HOBO sensor,8_20240725,exact,8_20240725
+LongTerm,HOBO sensor,8_20240807,exact,8_20240807
+LongTerm,HOBO sensor,8_20240814,exact,8_20240814
+LongTerm,HOBO sensor,8_20240821,exact,8_20240821
+LongTerm,HOBO sensor,8_20240828,exact,8_20240828
+LongTerm,HOBO sensor,8_20240904,exact,8_20240904
+LongTerm,HOBO sensor,8_20240912,exact,8_20240912
+LongTerm,HOBO sensor,8_20240918,unresolved,
+LongTerm,HOBO sensor,8_20240924,unresolved,
+LongTerm,HOBO sensor,9_202400618,alias,9_20240618
+LongTerm,HOBO sensor,9_20240711,exact,9_20240711
+LongTerm,HOBO sensor,9_20240725,exact,9_20240725
+LongTerm,HOBO sensor,9_20240807,exact,9_20240807
+LongTerm,HOBO sensor,9_20240814,exact,9_20240814
+LongTerm,HOBO sensor,9_20240821,exact,9_20240821
+LongTerm,HOBO sensor,9_20240828,exact,9_20240828
+LongTerm,HOBO sensor,9_20240904,exact,9_20240904
+LongTerm,HOBO sensor,9_20240912,exact,9_20240912
+LongTerm,HOBO sensor,9_20240918,unresolved,
+LongTerm,HOBO sensor,9_20240924,unresolved,
