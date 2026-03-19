@@ -1,6 +1,6 @@
 # Yield Analysis Report
 
-- Generated at: 2026-03-19T11:33:41
+- Generated at: 2026-03-19T12:04:30
 - Outcome coding for paired summaries: all differences are `heat - control`.
 - Primary model: mixed-effects model on row-level data.
 - Long-term mixed model: fixed `cultivar * heat_trt`, random intercept `(1|cultivar:set_id)`.
@@ -64,12 +64,10 @@
   - pct_rotten_weight: smallest term p=0.07404 (C(is_control))
 
 ## Outputs
-- /Users/liyuang/Desktop/STAT628/installment3/cleaned_data/yield_longterm_pair_differences.csv
-- /Users/liyuang/Desktop/STAT628/installment3/cleaned_data/yield_longterm_summary.csv
-- /Users/liyuang/Desktop/STAT628/installment3/cleaned_data/yield_longterm_mixedlm_coefficients.csv
-- /Users/liyuang/Desktop/STAT628/installment3/cleaned_data/yield_longterm_mixedlm_wald_terms.csv
-- /Users/liyuang/Desktop/STAT628/installment3/cleaned_data/yield_acute_pair_differences.csv
-- /Users/liyuang/Desktop/STAT628/installment3/cleaned_data/yield_acute_summary.csv
-- /Users/liyuang/Desktop/STAT628/installment3/cleaned_data/yield_acute_mixedlm_coefficients.csv
-- /Users/liyuang/Desktop/STAT628/installment3/cleaned_data/yield_acute_mixedlm_wald_terms.csv
-- /Users/liyuang/Desktop/STAT628/installment3/cleaned_data/yield_analysis_report.md
+- /Users/liyuang/Desktop/STAT628/installment3/results/yield/yield_longterm_summary.csv
+- /Users/liyuang/Desktop/STAT628/installment3/results/yield/yield_longterm_mixedlm_coefficients.csv
+- /Users/liyuang/Desktop/STAT628/installment3/results/yield/yield_longterm_mixedlm_wald_terms.csv
+- /Users/liyuang/Desktop/STAT628/installment3/results/yield/yield_acute_summary.csv
+- /Users/liyuang/Desktop/STAT628/installment3/results/yield/yield_acute_mixedlm_coefficients.csv
+- /Users/liyuang/Desktop/STAT628/installment3/results/yield/yield_acute_mixedlm_wald_terms.csv
+- /Users/liyuang/Desktop/STAT628/installment3/results/yield/yield_analysis_report.md

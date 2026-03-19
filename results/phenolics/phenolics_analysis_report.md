@@ -1,6 +1,6 @@
 # Phenolics Analysis Report
 
-- Generated at: 2026-03-19T11:33:55
+- Generated at: 2026-03-19T12:04:33
 - Outcome coding: all concentration differences are `heat - control`.
 - Acute A0/A0C rows were excluded from treatment-effect analysis.
 - Primary models: mixed-effects models on row-level concentration data.
@@ -42,11 +42,6 @@
 - Acute concentration model: smallest term p=0.001152 (C(cultivar):C(is_control))
 
 ## Outputs
-- /Users/liyuang/Desktop/STAT628/installment3/Phenolics_concentrations.csv
-- /Users/liyuang/Desktop/STAT628/installment3/cleaned_data/phenolics_calibration_summary.csv
-- /Users/liyuang/Desktop/STAT628/installment3/results/phenolics/phenolics_samples_parsed.csv
-- /Users/liyuang/Desktop/STAT628/installment3/results/phenolics/phenolics_longterm_pair_differences.csv
-- /Users/liyuang/Desktop/STAT628/installment3/results/phenolics/phenolics_acute_pair_differences.csv
 - /Users/liyuang/Desktop/STAT628/installment3/results/phenolics/phenolics_longterm_summary.csv
 - /Users/liyuang/Desktop/STAT628/installment3/results/phenolics/phenolics_acute_summary.csv
 - /Users/liyuang/Desktop/STAT628/installment3/results/phenolics/phenolics_longterm_mixedlm_coefficients.csv
