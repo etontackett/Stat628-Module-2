@@ -1,6 +1,6 @@
 # Phenolics Analysis Report
 
-- Generated at: 2026-03-19T12:04:33
+- Generated at: 2026-03-19T12:47:19
 - Outcome coding: all concentration differences are `heat - control`.
 - Acute A0/A0C rows were excluded from treatment-effect analysis.
 - Primary models: mixed-effects models on row-level concentration data.

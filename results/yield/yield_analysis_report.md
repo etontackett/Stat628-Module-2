@@ -1,6 +1,6 @@
 # Yield Analysis Report
 
-- Generated at: 2026-03-19T12:04:30
+- Generated at: 2026-03-19T12:08:52
 - Outcome coding for paired summaries: all differences are `heat - control`.
 - Primary model: mixed-effects model on row-level data.
 - Long-term mixed model: fixed `cultivar * heat_trt`, random intercept `(1|cultivar:set_id)`.
