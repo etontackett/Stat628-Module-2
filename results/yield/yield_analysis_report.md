@@ -1,9 +1,10 @@
 # Yield Analysis Report
 
-- Generated at: 2026-03-17T15:29:08
-- Outcome coding: all differences are `heat - control`.
-- Long-term unit of analysis: paired set difference within cultivar/set.
-- Acute unit of analysis: paired difference within cultivar/heat level/replicate.
+- Generated at: 2026-03-19T11:33:41
+- Outcome coding for paired summaries: all differences are `heat - control`.
+- Primary model: mixed-effects model on row-level data.
+- Long-term mixed model: fixed `cultivar * heat_trt`, random intercept `(1|cultivar:set_id)`.
+- Acute mixed model: fixed `cultivar * heat_level * is_control`, random intercept `(1|cultivar:heat_level:replicate)`.
 
 ## Inputs
 - /Users/liyuang/Desktop/STAT628/installment3/cleaned_data/longterm_yield_analysis_locked.csv
@@ -16,7 +17,7 @@
 - Acute pairs: 24
 - Acute pairs usable for later temperature models: 6
 
-## First-pass findings
+## Paired-summary quick check
 - Long-term healthy weight summary:
   - overall: mean diff=-61.664, p=0.34048493770273314
   - MQ: mean diff=-125.912, p=0.294932692418296
@@ -52,11 +53,23 @@
   - St-C: mean diff=0.01805, p=0.50077605611001
   - St-D: mean diff=0.13757, p=0.34985993236284685
 
+## Mixed-model term tests
+- Long-term smallest p by outcome:
+  - healthy_weight_g: smallest term p=1.354e-05 (C(cultivar))
+  - pct_rotten_count: smallest term p=0.03728 (C(heat_trt))
+  - pct_rotten_weight: smallest term p=0.0007446 (C(cultivar))
+- Acute smallest p by outcome:
+  - healthy_weight_g: smallest term p=0.02449 (C(is_control))
+  - pct_rotten_count: smallest term p=0.01831 (C(is_control))
+  - pct_rotten_weight: smallest term p=0.07404 (C(is_control))
+
 ## Outputs
 - /Users/liyuang/Desktop/STAT628/installment3/cleaned_data/yield_longterm_pair_differences.csv
 - /Users/liyuang/Desktop/STAT628/installment3/cleaned_data/yield_longterm_summary.csv
-- /Users/liyuang/Desktop/STAT628/installment3/cleaned_data/yield_longterm_model_coefficients.csv
+- /Users/liyuang/Desktop/STAT628/installment3/cleaned_data/yield_longterm_mixedlm_coefficients.csv
+- /Users/liyuang/Desktop/STAT628/installment3/cleaned_data/yield_longterm_mixedlm_wald_terms.csv
 - /Users/liyuang/Desktop/STAT628/installment3/cleaned_data/yield_acute_pair_differences.csv
 - /Users/liyuang/Desktop/STAT628/installment3/cleaned_data/yield_acute_summary.csv
-- /Users/liyuang/Desktop/STAT628/installment3/cleaned_data/yield_acute_model_coefficients.csv
+- /Users/liyuang/Desktop/STAT628/installment3/cleaned_data/yield_acute_mixedlm_coefficients.csv
+- /Users/liyuang/Desktop/STAT628/installment3/cleaned_data/yield_acute_mixedlm_wald_terms.csv
 - /Users/liyuang/Desktop/STAT628/installment3/cleaned_data/yield_analysis_report.md

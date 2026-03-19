@@ -1,0 +1,9 @@
+model_name,term,statistic,df_constraint,p_value
+acute_mixedlm,Intercept,292.6529937651008,1.0,1.3137172445637316e-65
+acute_mixedlm,C(heat_level),6.214332107450808,3.0,0.10163558856957033
+acute_mixedlm,C(cultivar),2.336750161957279,1.0,0.12635290989034617
+acute_mixedlm,C(is_control),5.035007279349179,1.0,0.02483998239687495
+acute_mixedlm,C(heat_level):C(cultivar),1.927258260243145,3.0,0.5876409230052464
+acute_mixedlm,C(heat_level):C(is_control),2.832525641717212,3.0,0.41817356813630424
+acute_mixedlm,C(cultivar):C(is_control),10.56644938270453,1.0,0.0011515870594031154
+acute_mixedlm,C(heat_level):C(cultivar):C(is_control),9.219358675740112,3.0,0.026512184730533364

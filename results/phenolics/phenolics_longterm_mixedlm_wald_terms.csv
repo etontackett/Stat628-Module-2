@@ -1,0 +1,5 @@
+model_name,term,statistic,df_constraint,p_value
+longterm_mixedlm,Intercept,290.3812635359965,1.0,4.106602119924096e-65
+longterm_mixedlm,C(cultivar),3.3350397430938363,1.0,0.06781876841169457
+longterm_mixedlm,C(treatment_raw),4.474329478591555,1.0,0.034407700808692786
+longterm_mixedlm,C(cultivar):C(treatment_raw),5.751210667628451,1.0,0.01647729746500474

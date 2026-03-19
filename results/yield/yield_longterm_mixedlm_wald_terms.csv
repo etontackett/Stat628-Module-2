@@ -1,0 +1,13 @@
+model_name,outcome,term,statistic,df_constraint,p_value
+longterm_mixedlm,healthy_weight_g,Intercept,447.0144991190428,1.0,3.219941173440326e-99
+longterm_mixedlm,healthy_weight_g,C(cultivar),18.932773720363333,1.0,1.3540638277019951e-05
+longterm_mixedlm,healthy_weight_g,C(heat_trt),4.111835527211854,1.0,0.04258412146190567
+longterm_mixedlm,healthy_weight_g,C(cultivar):C(heat_trt),2.141200822774099,1.0,0.1433896131161741
+longterm_mixedlm,pct_rotten_count,Intercept,54.88440390542961,1.0,1.2783138049858364e-13
+longterm_mixedlm,pct_rotten_count,C(cultivar),2.115172286100281,1.0,0.14584563995168995
+longterm_mixedlm,pct_rotten_count,C(heat_trt),4.337524633029692,1.0,0.03728108814622417
+longterm_mixedlm,pct_rotten_count,C(cultivar):C(heat_trt),0.46526335302009336,1.0,0.4951743565871455
+longterm_mixedlm,pct_rotten_weight,Intercept,50.9036368389109,1.0,9.701366709319842e-13
+longterm_mixedlm,pct_rotten_weight,C(cultivar),11.374381402707868,1.0,0.000744640201637392
+longterm_mixedlm,pct_rotten_weight,C(heat_trt),5.726443181497458,1.0,0.016711296460306085
+longterm_mixedlm,pct_rotten_weight,C(cultivar):C(heat_trt),1.884296467375815,1.0,0.16984662865570305
