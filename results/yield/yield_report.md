@@ -146,21 +146,49 @@ This supports the interpretation that acute heat acts mainly as a short-term str
 
 ## Figures
 
-### Long-Term Healthy Weight Paired Differences
+### Long-Term Outcome Distributions
 
-![Long-term healthy weight paired differences](figures/yield_longterm_healthy_weight_diff.png)
+![Long-term outcome distributions](figures/yield_longterm_distributions.png)
 
-### Long-Term Rotten-Count Paired Differences
+### Long-Term Observed Means with Standard Errors
 
-![Long-term rotten-count paired differences](figures/yield_longterm_rotten_count_diff.png)
+![Long-term healthy weight mean and standard error](figures/yield_longterm_healthy_weight_mean_se.png)
 
-### Acute Healthy Weight Paired Differences
+![Long-term rotten-count mean and standard error](figures/yield_longterm_rotten_count_mean_se.png)
 
-![Acute healthy weight paired differences](figures/yield_acute_healthy_weight_diff_boxplot.png)
+![Long-term rotten-weight mean and standard error](figures/yield_longterm_rotten_weight_mean_se.png)
 
-### Acute Rotten-Count Paired Differences
+### Long-Term Mixed-Model Fitted Means
 
-![Acute rotten-count paired differences](figures/yield_acute_rotten_count_diff_boxplot.png)
+![Long-term mixed-model fitted means](figures/yield_longterm_mixedlm_fitted_means.png)
+
+### Long-Term Diagnostic Checks
+
+![Long-term healthy weight diagnostics](figures/yield_longterm_diagnostics_healthy_weight_g.png)
+
+![Long-term rotten-count diagnostics](figures/yield_longterm_diagnostics_pct_rotten_count.png)
+
+![Long-term rotten-weight diagnostics](figures/yield_longterm_diagnostics_pct_rotten_weight.png)
+
+### Acute Observed Means with Standard Errors
+
+![Acute healthy weight mean and standard error](figures/yield_acute_healthy_weight_mean_se.png)
+
+![Acute rotten-count mean and standard error](figures/yield_acute_rotten_count_mean_se.png)
+
+![Acute rotten-weight mean and standard error](figures/yield_acute_rotten_weight_mean_se.png)
+
+### Acute Mixed-Model Fitted Means
+
+![Acute mixed-model fitted means](figures/yield_acute_mixedlm_fitted_means.png)
+
+### Acute Diagnostic Checks
+
+![Acute healthy weight diagnostics](figures/yield_acute_diagnostics_healthy_weight_g.png)
+
+![Acute rotten-count diagnostics](figures/yield_acute_diagnostics_pct_rotten_count.png)
+
+![Acute rotten-weight diagnostics](figures/yield_acute_diagnostics_pct_rotten_weight.png)
 
 ## Conclusion
 
